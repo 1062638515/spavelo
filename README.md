@@ -165,6 +165,11 @@ spavelo/
 └── align/                   # Spatial alignment modules
 ```
 
+## Data availability
+- [Thymus Dataset](https://figshare.com/articles/dataset/Preprocessed_AnnData/28516139/2?file=52703054)
+- [OSCC Dataset](https://figshare.com/articles/dataset/Spatial_transcriptomics_reveals_distinct_and_conserved_tumor_core_and_edge_architectures_that_predict_survival_and_targeted_therapy_response_/20304456/1)
+- [Simulation Dataset](https://figshare.com/s/c91d16bf865855a7b5cd)
+
 
 ## Acknowledgments
 
