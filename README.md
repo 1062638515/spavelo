@@ -1,4 +1,4 @@
-# spaVelo: Dependency-aware RNA Velocity Inference
+# spaVelo: Spatial dependency-aware RNA Velocity Inference
 
 spaVelo is a spatial dependency-aware variational autoencoder framework for RNA velocity analysis in spatial transcriptomics data. It integrates spatial information using Gaussian processes to improve velocity estimation and capture spatially coherent dynamics.
 
